@@ -230,6 +230,7 @@ public class Main {
         HttpRequest.x_student_id = null;
       } else {
         SimpleURL url = new SimpleURL(input);
+        System.out.println("enter method");
         HttpMethod method =
             HttpMethod.valueOf(sc.nextLine().trim().toUpperCase());
 
