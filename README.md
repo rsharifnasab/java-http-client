@@ -39,3 +39,8 @@ headers   = {Server=gunicorn/19.9.0, Access-Control-Allow-Origin=*, Access-Contr
 ```
 
 8. note that [httpbin](http://httpbin.org/) is a very good site for demonstrating this program features.
+
+
+
+### friends 
+another implementation of this project could be found [here](https://github.com/mehditeymorian/HttpClient)
